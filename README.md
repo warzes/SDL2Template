@@ -11,6 +11,7 @@ Quick and easy SDL2 starter template with boilerplate code (Visual Studio)
 Clone the repository :
 
 `git clone --recursive https://github.com/viktormoskalenko/SDL2Template`
+
 Don't forget to add `--recursive` to fetch the submodules
 
 Run the batch file to generate the Visual Studio solution 
